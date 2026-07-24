@@ -1,7 +1,3 @@
-<div align="right">
-  <a href="README.md">🇧🇷 Versão em Português</a>
-</div>
-
 # Hi! I'm Hugo. ✌️
 
 **👨‍💻 Aspiring Front-End Developer | Junior Support Analyst | Mod Creator 👽**
@@ -44,3 +40,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-moreira-laprano/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/hugouououo/)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Hugouououo)
+<div align="right">
+  <a href="README.md">🇧🇷 Versão em Português</a>
+</div>
