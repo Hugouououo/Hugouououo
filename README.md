@@ -4,7 +4,7 @@
 
 # Oi! Eu sou o Hugo. ✌️
 
-**👨‍💻 Desenvolevor Front-End em experiência | Analista de Suporte Júnior | Mod Creator 👽**
+**👨‍💻 Desenvolvedor Front-End em experiência | Analista de Suporte Júnior | Mod Creator 👽**
 
 ---
 
