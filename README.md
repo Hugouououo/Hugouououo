@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README-en.md">🇺🇸 Read in English</a>
+</div>
+
 # Oi! Eu sou o Hugo. ✌️
 
 **👨‍💻 Desenvolevor Front-End em experiência | Analista de Suporte Júnior | Mod Creator 👽**
