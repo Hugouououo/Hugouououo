@@ -2,7 +2,7 @@
 
 **👨‍💻 Aspiring Front-End Developer | Junior Support Analyst | Mod Creator 👽**
 
----
+<!-----
 
 ### ℹ️ About Me
 
@@ -11,10 +11,10 @@
 - Enthusiast of **Information Security** and **Full-Stack** development.
 - **Mod Developer** for Minecraft Java.
 - Big Metal enjoyer.
-
+-->
 ---
 
-### 💻 Technologies
+### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
